@@ -1,0 +1,9 @@
+name: secure
+version: 1.0
+main: primescore.secure.Secure
+author: Primescore
+
+commands:
+    nexuslock:
+        usage: /<command>
+        description: Lock things.
